@@ -1,4 +1,4 @@
-echo "Testing Jenkins"
+echo "Testing Jenkins second time"
 whoami
 date
 cal
